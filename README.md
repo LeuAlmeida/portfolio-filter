@@ -22,6 +22,6 @@ Easy and fast portfolio filter made with React Hooks
 
   <h3 align="center">👀 Read this article on <a href="https://medium.com/@lualmeida_90776/portfolio-filter-with-reactjs-and-react-hooks-b056f136bdba">Medium</a></h3>
 
-  <h3 align="center">
+  <h5 align="center">
 <a href="http://linkedin.com/in/leonardoalmeida99">Connect me in LinkedIn</a> | <a href="http://behance.net/almeida99">See my Behance</a> | <a href="https://leunardo.dev">Click here to go to my CV</a>
-</h3>
+</h5>
